@@ -1,0 +1,10 @@
+api_key=25dfd4b0eb8db631cc5706893a740219;
+api_call='https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}'
+api_convert='http://api.openweathermap.org/geo/1.0/direct?q={city name},{state code},{country code}&limit={limit}&appid={API key}'
+
+http://api.openweathermap.org/geo/1.0/direct?q=London&limit=5&appid=86b27e8944bf7cb0660527135b5d72b8
+http://api.openweathermap.org/geo/1.0/direct?q=London&limit=5&appid=86b27e8944bf7cb0660527135b5d72b8
+
+ur
+http://api.openweathermap.org/geo/1.0/direct?q=London&limit=5&appid=e8ee08ec1c66047435b56384150f0f20
+
