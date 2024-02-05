@@ -7,4 +7,5 @@ http://api.openweathermap.org/geo/1.0/direct?q=London&limit=5&appid=86b27e8944bf
 
 ur
 http://api.openweathermap.org/geo/1.0/direct?q=London&limit=5&appid=e8ee08ec1c66047435b56384150f0f20
-
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+https://api.openweathermap.org/data/2.5/weather?q=chennai&appid=e8ee08ec1c66047435b56384150f0f20

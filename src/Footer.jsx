@@ -16,7 +16,7 @@ function Footer() {
         <MDBRow>
           <MDBCol lg='2' md='12' className='mb-4 mb-md-0'>
             <MDBRipple
-              rippleColor='light'
+              rippleColor=''
               className='bg-image hover-overlay shadow-1-strong rounded'
             >
               <img src='https://img.delicious.com.au/ZOmI5Coz/del/2018/12/london-uk-97375-2.jpg' className='w-100' id='london' />
@@ -65,7 +65,7 @@ function Footer() {
               <a href='#!'>
                 <div
                   className='mask'
-                  style={{ backgroundColor: 'rgba(251, 251, 251, 0.2)' }}
+                  style={{ backgroundColor: '#AED6F1' }}
                 ></div>
               </a>
             </MDBRipple>
@@ -93,7 +93,7 @@ function Footer() {
               <a href='#!'>
                 <div
                   className='mask'
-                  style={{ backgroundColor: 'rgba(251, 251, 251, 0.2)' }}
+                  style={{ backgroundColor: '#AED6F1' }}
                 ></div>
               </a>
             </MDBRipple>
@@ -102,7 +102,7 @@ function Footer() {
       </section>
     </MDBContainer>
 
-    <div className='text-center p-3' style={{ backgroundColor: 'rgba(0, 0, 0, 0.2)' }}>
+    <div className='text-center p-3' style={{ backgroundColor: '#AED6F1' }}>
       © 2023 Copyright:
       <a className='text-white' href='https://mdbootstrap.com/'>
         WeatherNOW.com
